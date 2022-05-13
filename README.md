@@ -9,4 +9,4 @@ Initial code and instructions for this project were provided by MITxPro program 
 Questions? Contact me at elubkert@gmail.com
 
 ## About Me
-I'm Emily Lubkert, a kindergarten teacher and teacher coach turned web developer.
+I'm Emily Lubkert, a full stack web developer.
